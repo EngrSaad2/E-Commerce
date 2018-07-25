@@ -1,0 +1,60 @@
+body{
+	background: rgba(80,80,80,1.00);
+	font-family:arial;
+}
+.login {
+  width:320px;
+  height: 250px;
+  margin:100px auto 0 auto;
+}
+.login .title {
+  color: #fff;
+  font-size: 1.2em;
+  font-weight: bold;
+  border-bottom: 2px double #21A9E1;
+  padding-bottom: 20px;
+  text-align:center;
+}
+.login .in {
+  padding: 10px 10px;
+  margin-bottom: 10px;
+  margin-top:20px;
+  width:260px;
+  border: 2px solid  #21A9E1;
+  background-color:rgba(0,0,0,0.00);
+  color: #fff;
+  font-size:18px;
+  margin-left:5%;
+  transition-duration:.5s;
+}
+
+ .login .in:focus{
+  outline: none;
+  color: #fff;
+  border-color:#FFFFFF;
+  padding-left:15px;
+  transition-duration:.5s;
+}
+.sub{
+	width:280px;
+	height:50px;
+	font-size:20px;
+	transition-duration:0.5s;
+	background:#21A9E1;
+	color:#FFFFFF;
+	border:1px solid #21A9E1;
+	outline:0px;
+	margin-left:5%;
+	margin-top:20px;
+}
+.sub:hover{
+	background:#4dbbe7;
+	border:1px solid #4dbbe7;
+	transition-duration:0.5s;
+}
+.msg{
+	height:50px;
+	width:auto;
+	color:yellow;
+	padding:15px;
+}

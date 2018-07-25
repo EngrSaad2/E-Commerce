@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <script src="js/jquery-2.1.4.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <h2>Collapse</h2>
+  <p><strong>Note:</strong> The <strong>data-parent</strong> attribute makes sure that all collapsible elements under the specified parent will be closed when one of the collapsible item is shown.</p>
+  <div class="panel-group" id="accordion">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Site Option</a>
+        </h4>
+      </div>
+      <div id="collapse1" class="panel-collapse collapse">
+        <ul class="list-group">
+          <li class="list-group-item"><a href="sitetitle.php">Title &amp; Slogan</a></li>
+          <li class="list-group-item"><a href="sitetitle.php">Title &amp; Slogan</a></li>
+          <li class="list-group-item"><a  href="socialmedia.php">Social Media</a></li>
+          <li class="list-group-item"><a href="copyright.php">Copyright</a></li>
+        </ul>
+        <div class="panel-footer">Footer</div>
+      </div>
+    </div>
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Site Option</a>
+        </h4>
+      </div>
+      <div id="collapse2" class="panel-collapse collapse">
+        <ul class="list-group">
+          <li class="list-group-item"><a href="sitetitle.php">Title &amp; Slogan</a></li>
+          <li class="list-group-item"><a href="sitetitle.php">Title &amp; Slogan</a></li>
+          <li class="list-group-item"><a  href="socialmedia.php">Social Media</a></li>
+          <li class="list-group-item"><a href="copyright.php">Copyright</a></li>
+        </ul>
+        <div class="panel-footer">Footer</div>
+      </div>
+  </div> 
+</div>
+    
+<div class="container">
+  <h2>Expand and Collapse with different icons</h2>
+    <button type="button" class="btn btn-success" data-toggle="collapse" data-target="#demo">
+      <span class="glyphicon glyphicon-collapse-down"></span> Open
+    </button>
+  <div id="demo" class="collapse">
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  </div>
+</div>
+
+<script>
+$(document).ready(function(){
+  $("#demo").on("hide.bs.collapse", function(){
+    $(".btn").html('<span class="glyphicon glyphicon-collapse-down"></span> Open');
+  });
+  $("#demo").on("show.bs.collapse", function(){
+    $(".btn").html('<span class="glyphicon glyphicon-collapse-up"></span> Close');
+  });
+});
+</script>
+
+</body>
+
+<!-- Mirrored from www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_js_collapse&stacked=h by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 11 Nov 2015 21:53:34 GMT -->
+</html>
