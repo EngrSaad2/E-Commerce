@@ -1,7 +1,13 @@
 # E-Commerce
+### Contact
+Developer: <b>SAAD</b> <br>
+Email: saad@triangeltech.com<br>
+LinkedIn: https://www.linkedin.com/in/raselhasandurjoy<br>
+Facebook: https://www.facebook.com/raselhasandurjoy<br>
+Company WEB: https://triangeltech.com/ <br>
+Phone: +8801904654712<br>
 
-
-## Java open source e-commerce software
+## Open source e-commerce software
 
 Shopping cart
 Catalogue
