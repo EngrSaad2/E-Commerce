@@ -8,7 +8,7 @@ Company WEB: https://triangeltech.com/ <br>
 Phone: +8801904654712<br>
 
 ## Open source e-commerce software
-...
+
 Shopping cart
 Catalogue
 Search
