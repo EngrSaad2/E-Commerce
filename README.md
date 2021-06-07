@@ -59,4 +59,4 @@ The instructions above will let you run the application with default settings an
 
 
 ## Participation:
-If you have interest in giving feedback or for participating to Shopizer project in any way Feel to use the contact form https://triangeltech.com/contact/ and share your email address so we can send an invite to our Slack channel.
+If you have interest in giving feedback or for participating to Shopizer project in any way Feel to use the contact form https://triangeltech.com/contact/ and share your email address so we can send an invite to our Slack channel..
