@@ -26,7 +26,7 @@ From the command line with Maven installed:
 
 $ cd shopizer
 $ mvmw clean install
-Run the application from Tomcat..
+Run the application from Tomcat
 copy sm-shop/target/ROOT.war to tomcat or any other application server deployment dir
 
 Increase heap space to 1024 m
