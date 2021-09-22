@@ -16,7 +16,7 @@ Search
 Checkout
 Administration
 REST API..
-...
+
 #### Get the code:
 Clone the repository:
 
