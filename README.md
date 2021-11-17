@@ -18,7 +18,7 @@ Administration
 REST API.
 
 #### Get the code:
-Clone the repository:..
+Clone the repository:
 
 If this is your first time using Github, review http://help.github.com to learn the basics.
 
