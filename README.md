@@ -15,7 +15,7 @@ Catalogue
 Search
 Checkout
 Administration
-REST API.
+REST API....
 
 #### Get the code:
 Clone the repository:
