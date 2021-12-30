@@ -1,7 +1,7 @@
 # E-Commerce
 ### Contact
 Developer: <b>SAAD</b> <br>
-Email: saad@triangeltech.com<br>...
+Email: saad@triangeltech.com<br>
 Website: https://engr-saad.com <br>
 LinkedIn: https://www.linkedin.com/in/raselhasandurjoy<br>
 Facebook: https://www.facebook.com/raselhasandurjoy<br>
