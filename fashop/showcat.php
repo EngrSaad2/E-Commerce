@@ -5,7 +5,7 @@
     if(isset($_GET['delcat'])){
         $catid=preg_replace('/[^-a-zA-Z0-9_]/', '', $_GET['delcat']);
         $delcat=$cat->delcatbyid($catid);
-    }
+    }...
 ?>
 <?php include "inc/sidebarleft.php"; ?>  
 <div class="sidebar_right">
