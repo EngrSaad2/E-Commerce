@@ -1,5 +1,5 @@
 <?php
- class product{...
+ class product{
  	public $db;
  	private $fm;
  	public function __construct()
