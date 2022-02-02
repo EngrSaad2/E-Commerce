@@ -8,7 +8,7 @@ Facebook: https://www.facebook.com/Engr.Saad.2/<br>
 Company WEB: https://triangletech.com.bd/ <br>
 WhatsApp: +8801810536303<br>
 
-## Open source e-commerce software....
+## Open source e-commerce software...
 
 Shopping cart
 Catalogue
