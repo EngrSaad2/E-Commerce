@@ -1,6 +1,6 @@
 <?php
 	/*define("DB_HOST","localhost");
-	define("DB_USER","faridpur_db1f3s8");.......
+	define("DB_USER","faridpur_db1f3s8");......
 	define("DB_PASS","dgZ^U~t[!OEm");
 	define("DB_NAME","faridpur_db@fs13");
 	define("TITLE","Faridpurshop");
