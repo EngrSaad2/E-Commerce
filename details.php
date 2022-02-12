@@ -2,7 +2,7 @@
 <?php
 	 if(!isset($_GET['prodet'])|| $_GET['prodet']==NULL){
       header("Location:404.php");
-    }....
+    }...
       else{
       	 $productid=preg_replace('/[^-a-zA-Z0-9_]/', '', $_GET['prodet']);
       }
